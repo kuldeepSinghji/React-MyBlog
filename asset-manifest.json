@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-MyBlog/static/css/main.2691c609.chunk.css",
+    "main.js": "/React-MyBlog/static/js/main.92a2defe.chunk.js",
+    "main.js.map": "/React-MyBlog/static/js/main.92a2defe.chunk.js.map",
+    "runtime-main.js": "/React-MyBlog/static/js/runtime-main.7296777f.js",
+    "runtime-main.js.map": "/React-MyBlog/static/js/runtime-main.7296777f.js.map",
+    "static/js/2.e835c03c.chunk.js": "/React-MyBlog/static/js/2.e835c03c.chunk.js",
+    "static/js/2.e835c03c.chunk.js.map": "/React-MyBlog/static/js/2.e835c03c.chunk.js.map",
+    "index.html": "/React-MyBlog/index.html",
+    "static/css/main.2691c609.chunk.css.map": "/React-MyBlog/static/css/main.2691c609.chunk.css.map",
+    "static/js/2.e835c03c.chunk.js.LICENSE.txt": "/React-MyBlog/static/js/2.e835c03c.chunk.js.LICENSE.txt",
+    "static/media/16.4fc4fa57.jpg": "/React-MyBlog/static/media/16.4fc4fa57.jpg",
+    "static/media/Profile.83cdb774.jpg": "/React-MyBlog/static/media/Profile.83cdb774.jpg",
+    "static/media/blog1.5af69376.jpg": "/React-MyBlog/static/media/blog1.5af69376.jpg",
+    "static/media/p.83cdb774.jpg": "/React-MyBlog/static/media/p.83cdb774.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7296777f.js",
+    "static/js/2.e835c03c.chunk.js",
+    "static/css/main.2691c609.chunk.css",
+    "static/js/main.92a2defe.chunk.js"
+  ]
+}
